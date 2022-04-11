@@ -7,11 +7,3 @@ body {
     background-attachment: fixed;
     background-size: fill;
 }
-
-/* Mobile landscape breakpoint. */
-@media only screen and (min-width: 480px) {
-    body {
-        background-image: url(img/cryptohires.png);
-        background-size: cover;
-    }
-}
