@@ -1,1 +1,7 @@
-body { background: url(img/cryptohires.png) center center cover no-repeat fixed; }
+body {
+    background-image: url(img/cryptohires.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
